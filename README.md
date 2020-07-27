@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
+![Ansible](https://img.shields.io/badge/-Ansible-green?style=flat-square&logo=ansible)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
