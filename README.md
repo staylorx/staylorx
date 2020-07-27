@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a well-rounded, highly-experienced business problem-solver, using code, process analysis, and strong architectural principals to get there.
+I'm a well-rounded, highly-experienced business problem-solver and devops machine, using code, process analysis, and strong architectural principals to get there.
 
 If your favourite things are BPMN 2.0, NiFi, data flow, and integrations, then we've got lots to talk about!
 
