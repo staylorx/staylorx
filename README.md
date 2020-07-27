@@ -4,7 +4,7 @@ I'm a well-rounded, highly-experienced business problem-solver and devops machin
 
 If your favourite things are BPMN 2.0, NiFi, data flow, and integrations, then we've got lots to talk about!
 
-⚡ Fun fact: I maintain the chocolatey installers for the ![camel-k CLI](https://github.com/apache/camel-k) and ![camunda-modeler](https://github.com/camunda/camunda-modeler) tools.
+⚡ Fun fact: I maintain the chocolatey installers for the [camel-k CLI](https://github.com/apache/camel-k) and [camunda-modeler](https://github.com/camunda/camunda-modeler) tools.
 
 <!--
 **staylorx/staylorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
