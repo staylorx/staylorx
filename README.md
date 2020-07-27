@@ -2,7 +2,7 @@
 
 I'm a well-rounded, highly-experienced business problem-solver and devops machine, using code, process analysis, and strong architectural principals to get there.
 
-If your favourite things are BPMN 2.0, NiFi, data flow, and integrations, then we've got lots to talk about!
+If your favourite things are BPMN2, NiFi, data flow, and integrations, then we've got lots to talk about!
 
 ⚡ Fun fact: I maintain the chocolatey installers for the [camel-k](https://github.com/apache/camel-k) and [camunda-modeler](https://github.com/camunda/camunda-modeler) tools.
 
