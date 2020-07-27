@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a well-rounded, highly-experienced business problem-solver, using code, process analysis, and strong architectural principals to get there.
+
+If your favourite things are BPMN 2.0, NiFi, data flow, and integrations, then we've got lots to talk about!
+
 <!--
 **staylorx/staylorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
-------------
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
