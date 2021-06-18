@@ -2,7 +2,7 @@
 
 I'm a well-rounded, highly-experienced business problem-solver and devops machine, using code, process analysis, and strong architectural principals to get there.
 
-If your favorite things are BPMN2, NiFi, data flow, and integrations, then we've got lots to talk about!
+If your favorite things are BPMN2 (DMN too!), NiFi, data flow, and integrations, then we've got lots to talk about!
 
 <!--
 **staylorx/staylorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
