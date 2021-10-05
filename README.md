@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a well-rounded, highly-experienced business problem-solver and devops machine, using code, process analysis, and strong architectural principals to get there.
-
-If your favorite things are BPMN2 (DMN too!), Python, Prefect, NiFi, data flow, and integrations, then we've got lots to talk about!
+I'm a highly-experienced business problem-solver and devops machine, using code, process analysis, and strong architectural principals to get there.
 
 <!--
 **staylorx/staylorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
